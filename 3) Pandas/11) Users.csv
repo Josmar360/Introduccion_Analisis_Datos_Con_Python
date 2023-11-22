@@ -1,9 +1,9 @@
 id,nombre,edad,genero,pais,email
-0,Mr Jerome Thomas,73,male,United States,jerome.thomas@example.com
-1,Mr Gary Berry,70,male,United Kingdom,gary.berry@example.com
+0,,73,male,United States,jerome.thomas@example.com
+1,,70,male,United Kingdom,gary.berry@example.com
 2,Mr Noham Dubois,40,male,France,noham.dubois@example.com
 3,Mrs Naja Johansen,63,female,Denmark,naja.johansen@example.com
-4,Mr Damien Marchand,61,male,France,damien.marchand@example.com
+4,Mr Damien Marchand,61,male,France,
 5,Mr Harri Althoff,56,male,Germany,harri.althoff@example.com
 6,Mr Noah Olsen,40,male,Denmark,noah.olsen@example.com
 7,Ms Britta Weinert,35,female,Germany,britta.weinert@example.com
