@@ -1,9 +1,8 @@
 import pandas as pd
-import numpy as np
 
 # Abrir el archivo user.csv
 print("====== Imprimir el archivo csv ======")
-data = pd.read_csv("users.csv", index_col='id')
+data = pd.read_csv("3) Pandas/7) Users.csv", index_col='id')
 print(data)
 
 # Usar metodos head()
