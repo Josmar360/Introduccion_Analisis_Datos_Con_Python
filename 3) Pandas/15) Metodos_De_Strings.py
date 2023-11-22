@@ -10,11 +10,11 @@ print("\n====== Limpieza de datos de la lista Usuarios ======")
 data = data.dropna()
 print(data)
 
-# Metodo starswitch sirve para buscar inicial en texto = LIKE %a
+# Metodo starswith sirve para buscar inicial en texto = LIKE %a
 print("\n====== Obtener todos los usuarios que su correo inicie con la letra a ======")
 print(data[data['email'].str.startswith('a')])
 
-# Metodo endswitch sirve para buscar final en texto = LIKE a%
+# Metodo endswich sirve para buscar final en texto = LIKE a%
 print("\n====== Obtener todos los usuarios que su correo termine con .com ======")
 print(data[data['email'].str.endswith('.com')])
 
