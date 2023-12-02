@@ -10,26 +10,30 @@ El siguiente repositorio abarca el **diseño, consultas** de una base de datos p
 
 ---
 
+- [Operaciones en IPython](#operaciones-en-ipython)
+- [Crear funciones](#crear-funciones)
+- [Guardar archivos](#guardar-archivos)
+
 # Capturas de pantalla:
 
 ---
 
 ## Operaciones en IPython
 
-![Operaciones en IPython](README/1_Resultado_Final.png)
-
 ---
+
+![Operaciones en IPython](README/1_Resultado_Final.png)
 
 ## Crear funciones
 
-![Crear funciones](README/2_Crear_Funciones.png)
-
 ---
+
+![Crear funciones](README/2_Crear_Funciones.png)
 
 ## Guardar archivos
 
-![Guardar archivos](README/3_Guardar_Archivo.png)
-
 ---
+
+![Guardar archivos](README/3_Guardar_Archivo.png)
 
 - [Regresar al inicio](#presentación)
