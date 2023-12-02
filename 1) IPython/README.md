@@ -10,12 +10,8 @@ El siguiente repositorio abarca el **diseño, consultas** de una base de datos p
 
 ---
 
-- [Badges](#badges)
-- [Capturas de pantalla](#capturas-de-pantalla)
-- [Descripción del proyecto](#descripción-del-proyecto)
-- [Herramientas utilizadas](#herramientas-utilizadas)
-- [Guía de instalación](#guía-de-instalación)
-- [Autor](#autores)
-- [Información adicional](#información-adicional)
+- [Operaciones en IPython](README/1_Resultado_Final.png)
+- [Crear funciones](README/2_Crear_Funciones.png)
+- [Guardar archivos](README/3_Guardar_Archivo.png)
 
 - [Regresar al inicio](#presentación)
