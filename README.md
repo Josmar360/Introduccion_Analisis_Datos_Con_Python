@@ -2,7 +2,7 @@
 
 El siguiente repositorio abarca el **diseño, consultas** de una base de datos para la empresa 'LuGas', especializada en gasolineras.
 
-<h1 align="center"> Diseño y desarrollo de base de datos para "LuGas" </h1>
+<h1 align="center"> Introducción al análisis de datos con Python </h1>
 <p align="center"> Pantalla principal de creacion de base de datos </p>
 <p align="center"><img src="README/1_Pantalla_Inicial.png"/></p>
 
